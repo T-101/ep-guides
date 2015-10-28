@@ -4,7 +4,7 @@ by T-101 / Darklite ^ Primitive
 Fetch previous and upcoming dates of your favorite tv shows
 
 Usage: !ep show		name can contain spaces
-Examples:
+Examples:<br>
 !ep simpsons
 !ep x files
 !ep newsroom_2012	# for when best guess fails
