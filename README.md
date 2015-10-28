@@ -1,4 +1,5 @@
-# Ep Guides by T-101 / Darklite ^ Primitive
+# Ep Guides
+by T-101 / Darklite ^ Primitive
 
 Fetch previous and upcoming dates of your favorite tv shows
 
