@@ -3,10 +3,10 @@ by T-101 / Darklite ^ Primitive
 
 Fetch previous and upcoming dates of your favorite tv shows
 
-Usage: !ep show		name can contain spaces
+Usage: !ep show		name can contain spaces<br>
 Examples:<br>
-!ep simpsons
-!ep x files
+!ep simpsons<br>
+!ep x files<br>
 !ep newsroom_2012	# for when best guess fails
 
 Also you need to set which channels you want to bot respond.
